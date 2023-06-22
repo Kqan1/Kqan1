@@ -1,9 +1,5 @@
 # 👨🏻‍💻About Me:
-🏫 10th Grade
- ☪ Türkiye/Turkish 🇹🇷
-🌍 English/Japanese/Turkish 
-🔭 I'm currently working on a social  media project
-🌱 I’m currently learning PHP, SQL and JavaScript
+🏫 10th Grade<br> ☪ Türkiye/Turkish 🇹🇷<br>🌍 English/Japanese/Turkish<br>🔭 I'm currently working on a social  media project<br>🌱 I’m currently learning PHP, SQL and JavaScript
 
 
 ## 🌐 Socials:
